@@ -28,3 +28,6 @@ OhsPanic 실행파일과 OhsPanic.c,attack.h,monster.h 소스파일
 * 게임의 난이도가 점점 쉬워지는 문제
 
 * 직관적으로 게임을 이해하기 어려움 -> 튜토리얼 구현 필요
+
+## 플레이 영상
+https://www.youtube.com/watch?v=njzje-PgPsM
