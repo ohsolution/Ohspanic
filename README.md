@@ -1,4 +1,7 @@
 
+![image](https://user-images.githubusercontent.com/43700074/195869565-27e8feef-a35f-4a7a-8bb4-2dcf8665bd7c.png)
+
+
 이 프로젝트는 ncurses 라이브러리와 c++ 을 이용하여 개발한 간단한 터미널 게임이며
 우분투 18.04 버젼에서 개발되었고 실행됩니다.
 
